@@ -1,0 +1,1 @@
+﻿sqlcmd  -S <ServerName>\<SQLInstanceName> -E -i <InputfilePath>\SQLExecution.sql -o <Output File Path>\SignalOutput.txt

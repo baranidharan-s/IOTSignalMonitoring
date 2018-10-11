@@ -1,0 +1,6 @@
+{'signal' : 'ATL1', 'value':'100', 'value_type':'Integer', 'operator':'>'}
+{'signal' : 'ATL2', 'value':'100', 'value_type':'Integer', 'operator':'<'}
+{'signal' : 'ATL1', 'value':'High', 'value_type':'String', 'operator':'='}
+{'signal' : 'ATL2', 'value':'today', 'value_type':'DateTime', 'operator':'<'}
+{'signal' : 'ATL3', 'value':'High', 'value_type':'String', 'operator':'!='}
+{'signal' : 'ATL4', 'value':'100', 'value_type':'Integer', 'operator':'>'}

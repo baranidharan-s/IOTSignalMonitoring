@@ -1,0 +1,6 @@
+{'signal' : 'ATL1', 'value':'123.12', 'value_type':'Integer'}
+{'signal':'ATL1', 'value':'LOW', 'value_type':'String'}
+{'signal':'ATL3', 'value':'HIGH', 'value_type':'String'}
+{'signal':'ATL4', 'value':'12', 'value_type':'Integer'}
+{'signal':'ATL2', 'value':'12/15/2018 12:23:23:123', 'value_type':'DateTime'}
+{'signal':'ATL2', 'value':'123', 'value_type':'Integer'}
